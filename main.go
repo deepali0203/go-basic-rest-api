@@ -12,4 +12,5 @@ func main() {
 	fmt.Printf("deepali")
 	fmt.Printf("yadav")
 	fmt.Printf("bhai")
+	fmt.Println("cool")
 }
